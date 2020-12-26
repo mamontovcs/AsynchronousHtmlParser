@@ -1,0 +1,6 @@
+D:\Repositories\AsyncParser\HtmlParser.Common\bin\Debug\HtmlParser.Common.dll
+D:\Repositories\AsyncParser\HtmlParser.Common\bin\Debug\HtmlParser.Common.pdb
+D:\Repositories\AsyncParser\HtmlParser.Common\obj\Debug\HtmlParser.Common.csprojAssemblyReference.cache
+D:\Repositories\AsyncParser\HtmlParser.Common\obj\Debug\HtmlParser.Common.csproj.CoreCompileInputs.cache
+D:\Repositories\AsyncParser\HtmlParser.Common\obj\Debug\HtmlParser.Common.dll
+D:\Repositories\AsyncParser\HtmlParser.Common\obj\Debug\HtmlParser.Common.pdb

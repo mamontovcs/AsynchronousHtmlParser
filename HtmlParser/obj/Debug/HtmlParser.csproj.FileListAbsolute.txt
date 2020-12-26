@@ -1,0 +1,12 @@
+D:\Repositories\AsyncParser\HtmlParser\bin\Debug\HtmlParser.dll
+D:\Repositories\AsyncParser\HtmlParser\bin\Debug\HtmlParser.pdb
+D:\Repositories\AsyncParser\HtmlParser\bin\Debug\AngleSharp.dll
+D:\Repositories\AsyncParser\HtmlParser\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repositories\AsyncParser\HtmlParser\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Repositories\AsyncParser\HtmlParser\bin\Debug\AngleSharp.xml
+D:\Repositories\AsyncParser\HtmlParser\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Repositories\AsyncParser\HtmlParser\obj\Debug\HtmlParser.csprojAssemblyReference.cache
+D:\Repositories\AsyncParser\HtmlParser\obj\Debug\HtmlParser.csproj.CoreCompileInputs.cache
+D:\Repositories\AsyncParser\HtmlParser\obj\Debug\HtmlParser.csproj.CopyComplete
+D:\Repositories\AsyncParser\HtmlParser\obj\Debug\HtmlParser.dll
+D:\Repositories\AsyncParser\HtmlParser\obj\Debug\HtmlParser.pdb
